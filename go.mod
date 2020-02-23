@@ -1,4 +1,4 @@
-module github.com/dghubble/go-twitter
+module github.com/m-brady/go-twitter-1
 
 go 1.12
 
